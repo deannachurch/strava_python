@@ -14,7 +14,7 @@ format:
 
 ::: {.coloumns}
 ::: {.column width="60%"}
-![](pictures/collage.png){fig-align="left"}
+![](./pictures/collage.png){fig-align="left"}
 :::
 ::: {.column width="40%"}
 * Basketball
