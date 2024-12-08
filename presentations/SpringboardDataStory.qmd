@@ -1,0 +1,106 @@
+---
+title: "Stopping the Falls"
+subtitle: "How a retired rugby player took back her body"
+format: 
+    revealjs:
+        theme: sky
+        slide-number: true
+        chalkboard: 
+            buttons: false
+        footer: 'SpringBoard Data Science Course'
+---
+
+# Sportsaholic
+
+::: {.coloumns}
+::: {.column width="60%"}
+![](pictures/collage.png){fig-align="left"}
+:::
+::: {.column width="40%"}
+* Basketball
+* Running
+* Triathlon
+* Rugby
+
+:::
+:::
+
+# Rugby Retirement
+
+::: {.columns}
+::: {.column width="40%"}
+
+![](pictures/injury_collage.png){height="300"}
+
+:::
+
+:::{.column width="60%"}
+
+* More stressful job
+* 3 surgeries
+* 2-3 serious falls/year
+* chronically sprained ankle
+* general poor health
+
+:::
+:::
+
+![](pictures/timeline.png)
+
+# Falls can be deadly
+
+**3 Million** Emergency Medical visits due to older people and falls.
+
+Falls are the most common cause of **traumatic brain injuries.**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+ref: <https://cdc.gov/falls/data-research/facts-stats/index.html>
+
+# Activity Levels
+
+![](pictures/total_time_active_per_year.png)
+
+
+<https://www.strava.com/athletes/49433241>
+
+# The Right Activities?
+
+![](pictures/total_time_active_per_year_by_activity.png)
+
+# The Right Activities?
+
+![](pictures/percent_time_spent_per_sport_type_lumped.png)
+
+# Intention
+
+![](pictures/bike_types.png)
+
+# Intention
+
+![](pictures/kilojoules_per_time.png)
+
+# Not Training Smart
+
+![](pictures/ftp.png)
+
+# The Right Activities!
+
+![](pictures/percent_time_spent_per_sport_type_lumped.png)
+
+# Weight Training Matters!
+
+![](pictures/scatter_time_by_kj.png)
+
+# Intention Matters
+
+![](pictures/timeline.png)
+
+* Tracking Performance
+* Being Intentional About Workouts
+* Prioritizing Working Out 
+
+No More Falling!
