@@ -30,7 +30,7 @@ format:
 ::: {.columns}
 ::: {.column width="40%"}
 
-![](./pictures/injury_collage.png){height="300"}
+![](injury_collage.png){height="300"}
 
 :::
 
@@ -45,7 +45,7 @@ format:
 :::
 :::
 
-![](./pictures/timeline.png)
+![](timeline.png)
 
 # Falls can be deadly
 
@@ -62,42 +62,42 @@ ref: <https://cdc.gov/falls/data-research/facts-stats/index.html>
 
 # Activity Levels
 
-![](./pictures/total_time_active_per_year.png)
+![](total_time_active_per_year.png)
 
 
 <https://www.strava.com/athletes/49433241>
 
 # The Right Activities?
 
-![](./pictures/total_time_active_per_year_by_activity.png)
+![](total_time_active_per_year_by_activity.png)
 
 # The Right Activities?
 
-![](./pictures/percent_time_spent_per_sport_type_lumped.png)
+![](percent_time_spent_per_sport_type_lumped.png)
 
 # Intention
 
-![](./pictures/bike_types.png)
+![](bike_types.png)
 
 # Intention
 
-![](./pictures/kilojoules_per_time.png)
+![](kilojoules_per_time.png)
 
 # Not Training Smart
 
-![](./pictures/ftp.png)
+![](ftp.png)
 
 # The Right Activities!
 
-![](./pictures/percent_time_spent_per_sport_type_lumped.png)
+![](percent_time_spent_per_sport_type_lumped.png)
 
 # Weight Training Matters!
 
-![](./pictures/scatter_time_by_kj.png)
+![](.scatter_time_by_kj.png)
 
 # Intention Matters
 
-![](./pictures/timeline.png)
+![](timeline.png)
 
 * Tracking Performance
 * Being Intentional About Workouts
