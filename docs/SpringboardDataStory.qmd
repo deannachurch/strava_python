@@ -93,7 +93,7 @@ ref: <https://cdc.gov/falls/data-research/facts-stats/index.html>
 
 # Weight Training Matters!
 
-![](.scatter_time_by_kj.png)
+![](scatter_time_by_kj.png)
 
 # Intention Matters
 
